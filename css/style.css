@@ -18,6 +18,7 @@ body{
 .container{
     max-width:600px ;
     margin: auto;
+    
 }
 
 .title_form h1{
@@ -29,6 +30,7 @@ body{
     margin-bottom: 15px;
     box-shadow: 0 5px 10px -5px rgb(0,0,0/30%);
     padding: 7px;
+
 }
 
 .title p{
